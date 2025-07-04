@@ -9,17 +9,15 @@ This project is a simple ERP system that generates various reports based on invo
 
      PHP 
      MySQL
-     Web server (e.g., Apache)
+     Web server(Apache server)
 
 2. Database Setup
-
-    Create a new MySQL database for the project.
-    Run the SQL commands provided in the Assumptions section to create the necessary tables.
+    -Create a new MySQL database for the project.
+    -Run the SQL commands provided in the Assumptions section to create the necessary tables.
 
 3. Project Files
-
-    Clone or download this repository to your local web server's document root.
-    url https://github.com/IT21191442/-ERP-System-Assignment.git
+    -Clone or download this repository to your local web server's document root.
+    -url https://github.com/IT21191442/-ERP-System-Assignment.git
   
 5. Database Connection
 
@@ -41,9 +39,7 @@ This project is a simple ERP system that generates various reports based on invo
 # Usage
 
 The reports page allows you to generate three types of reports:
-        Invoice Report
-        Invoice Item Report
-        Item Report
-    
-For Invoice and Invoice Item reports, you can select a date range to filter the results.
-The Item Report shows a summary of all items and their total quantities.
+        -Invoice Report
+        -Invoice Item Report
+        -Item Report
+You can filter the Invoice Report and Invoice Item Report by selecting a specific date range. The Item Report provides a summary of all unique items along with their total quantities.
