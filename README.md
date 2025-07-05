@@ -1,6 +1,5 @@
 # ERP-SYSTEM_ASSIGNMENT
-ERP System Assignment 
-# -ERP-System-Assignment
+
 This project is a simple ERP system that generates various reports based on invoice, customer and item data.
 
 # Setup Instructions
