@@ -17,7 +17,7 @@ This project is a simple ERP system that generates various reports based on invo
 
 3. Project Files
     -Clone or download this repository to your local web server's document root.
-    -url https://github.com/IT21191442/-ERP-System-Assignment.git
+    -url [https://github.com/IT21191442/-ERP-System-Assignment.git](https://github.com/ScorpioCS9958/ERP-SYSTEM_ASSIGNMENT)
   
 5. Database Connection
 
